@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>webamp testing</title>
+        <script src="https://unpkg.com/webamp@1.4.0/built/webamp.bundle.min.js"></script>
+    </head>
+    <body>
+        <div style="width:40px; height:40px; position:relative; bottom:0px; left:0px;">
+            <div id="winamp-container"></div>
+        </div>
+        <link rel="stylesheet" href="C:\Users\larro\Documents\neocities\webamp testing\webamptesting.css">
+    </body>
+</html>
